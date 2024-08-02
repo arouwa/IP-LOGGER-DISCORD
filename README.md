@@ -1,24 +1,26 @@
 ![image](https://github.com/user-attachments/assets/63335321-72a1-47f7-ada6-bbb9a997dca4)
 
-### If You Wanna have more information about building, you can visit https://octopislol.github.io/Ip-Logger-Builder-Site/ for more information.
-This Stealer Grabs
+###  daha fazla bilgi sahibi olmak istiyorsanız, daha fazla bilgi için https://octopislol.github.io/Ip-Logger-Builder-Site/ adresini ziyaret edebilirsiniz.
+Bunları Çalar
 
-# Free Version
+# Ücretsiz Sürüm
 - IP
-- GEOLOCATION
+- JEOLOKASYON
 - WIEWPORT
 
-# Premium Version
+# Premium Sürüm
 - IP
-- GEOLOCATION
-- DISCORD NAMME
-- DISCORD ID
-- LANGUAGE
-- WINDOW SIZE
-- DEVICE NAME
-- TIME LAPSE
+- JEOLOKASYON
+- DISCORD ADI
+- DİSCORD IDSI
+- DİL
+- PENCERE BOYUTU
+- CİHAZ ADI
+- ZAMAN ARALIĞI
 - WIEWPORT
 
 https://discord.gg/UqcqkSbUWe
-# PREMIUM VERSION IS ONLY AVAILIBLE IN DISCORD !!!! 
-# FOR PREMIUM, YOU NEED TO BE IN THE SERVER FOR 1 WEEK !
+# PREMIUM SÜRÜM SADECE DISCORD'DA MEVCUTTUR !!!! 
+# PREMIUM IÇIN 1 HAFTA BOYUNCA SUNUCUDA OLMANIZ GEREKIR!
+
+Translated with DeepL.com (free version)
